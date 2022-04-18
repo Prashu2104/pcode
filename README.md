@@ -1,2 +1,2 @@
 # pcode
-personal-codes
+personal-codes for learing purpose.
